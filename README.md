@@ -1,0 +1,1 @@
+Pardioid (parametric cardioid) is a Typst package to draw on canvas using parametric curves. 之所以叫 pardioid，是因为我开发这个包的动机就是为了画gallery中的第一张图
